@@ -1,6 +1,13 @@
 {
-"name": "Example Token",
-"symbol": "EXMPL",
-"description": "Example token for learning",
-"image": "https://www.ponke.xyz/images/logo-nav.svg"
+  "name": "PapuToken",
+  "symbol": "PAPU",
+  "description": "AI-Powered Monkey Meme Coin",
+  "image": "https://your-image-link.png",
+  "external_url": "https://twitter.com/papu",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [{ "uri": "https://your-image-link.png", "type": "image/png" }],
+    "category": "image"
+  }
 }
