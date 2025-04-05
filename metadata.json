@@ -1,9 +1,9 @@
 {
-  "name": "PapuToken",
+  "name": "Papu",
   "symbol": "PAPU",
   "description": "AI-Powered Monkey Meme Coin - The Ultimate Degen Token on Solana",
   "image": "https://raw.githubusercontent.com/deel88/solanatoken/main/dsdaaa.jpg",
-  "external_url": "https://twitter.com/papu",
+  "external_url": "https://x.com/PapuAISol",
   "seller_fee_basis_points": 0,
   "attributes": [
     {
