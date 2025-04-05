@@ -26,14 +26,5 @@
       "trait_type": "Network",
       "value": "Solana"
     }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  ]
 } 
