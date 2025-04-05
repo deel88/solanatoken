@@ -1,13 +1,45 @@
 {
   "name": "PapuToken",
   "symbol": "PAPU",
-  "description": "AI-Powered Monkey Meme Coin",
-  "image": "https://github.com/deel88/solanatoken/blob/main/dsdaaa.jpg",
+  "description": "AI-Powered Monkey Meme Coin - The Ultimate Degen Token on Solana",
+  "image": "https://raw.githubusercontent.com/deel88/solanatoken/main/dsdaaa.jpg",
   "external_url": "https://twitter.com/papu",
   "seller_fee_basis_points": 0,
-  "attributes": [],
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Fungible Token"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "666,666,666"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
   "properties": {
-    "files": [{ "uri": "https://github.com/deel88/solanatoken/blob/main/dsdaaa.jpg?raw=true", "type": "image/png" }],
-    "category": "image"
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/deel88/solanatoken/main/dsdaaa.jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "gM6MhhgW9zeZLFAVtcnaCcUM2xFYYYgNuB5mxhnT3Fk",
+        "share": 100
+      }
+    ]
   }
-}
+} 
