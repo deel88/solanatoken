@@ -1,9 +1,8 @@
 {
-  "name": "Papu",
-  "symbol": "PAPU",
+  "name": "Tapu",
+  "symbol": "TAPU",
   "description": "AI-Powered Monkey Meme Coin - The Ultimate Degen Token on Solana",
   "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
-  "external_url": "https://x.com/PapuAISol",
   "seller_fee_basis_points": 0,
   "attributes": [
     {
@@ -29,10 +28,6 @@
   ],
   "properties": {
     "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
-        "type": "image/png"
-      }
     ],
     "category": "image"
   }
